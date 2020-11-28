@@ -1,4 +1,4 @@
-package com.blogapp.aws.movieuitemplate.ui;
+package com.blogapp.aws.moviecapstoneproject.ui;
 
 import android.app.ActivityOptions;
 import android.content.Intent;
@@ -11,12 +11,12 @@ import android.support.v7.widget.RecyclerView;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import com.blogapp.aws.movieuitemplate.models.Movie;
-import com.blogapp.aws.movieuitemplate.adapters.MovieAdapter;
-import com.blogapp.aws.movieuitemplate.adapters.MovieItemClickListener;
-import com.blogapp.aws.movieuitemplate.R;
-import com.blogapp.aws.movieuitemplate.models.Slide;
-import com.blogapp.aws.movieuitemplate.adapters.SliderPagerAdapter;
+import com.blogapp.aws.moviecapstoneproject.models.Movie;
+import com.blogapp.aws.moviecapstoneproject.adapters.MovieAdapter;
+import com.blogapp.aws.moviecapstoneproject.adapters.MovieItemClickListener;
+import com.blogapp.aws.moviecapstoneproject.R;
+import com.blogapp.aws.moviecapstoneproject.models.Slide;
+import com.blogapp.aws.moviecapstoneproject.adapters.SliderPagerAdapter;
 
 import java.util.ArrayList;
 import java.util.List;

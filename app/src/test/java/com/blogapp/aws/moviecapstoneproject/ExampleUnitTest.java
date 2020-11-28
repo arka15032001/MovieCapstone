@@ -1,4 +1,4 @@
-package com.blogapp.aws.movieuitemplate;
+package com.blogapp.aws.moviecapstoneproject;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.blogapp.aws.movieuitemplate;
+package com.blogapp.aws.moviecapstoneproject;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package com.blogapp.aws.movieuitemplate.adapters;
+package com.blogapp.aws.moviecapstoneproject.adapters;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -9,8 +9,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.blogapp.aws.movieuitemplate.R;
-import com.blogapp.aws.movieuitemplate.models.Movie;
+import com.blogapp.aws.moviecapstoneproject.R;
+import com.blogapp.aws.moviecapstoneproject.models.Movie;
 
 import java.util.List;
 

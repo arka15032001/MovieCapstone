@@ -1,4 +1,4 @@
-package com.blogapp.aws.movieuitemplate.ui;
+package com.blogapp.aws.moviecapstoneproject.ui;
 
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
@@ -7,7 +7,7 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.blogapp.aws.movieuitemplate.R;
+import com.blogapp.aws.moviecapstoneproject.R;
 import com.bumptech.glide.Glide;
 
 public class MovieDetailActivity extends AppCompatActivity {

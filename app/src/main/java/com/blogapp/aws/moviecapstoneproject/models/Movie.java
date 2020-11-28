@@ -1,4 +1,4 @@
-package com.blogapp.aws.movieuitemplate.models;
+package com.blogapp.aws.moviecapstoneproject.models;
 
 public class Movie {
 

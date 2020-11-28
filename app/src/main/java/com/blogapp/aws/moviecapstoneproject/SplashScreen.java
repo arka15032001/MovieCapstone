@@ -1,11 +1,11 @@
-package com.blogapp.aws.movieuitemplate;
+package com.blogapp.aws.moviecapstoneproject;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 
-import com.blogapp.aws.movieuitemplate.ui.HomeActivity;
+import com.blogapp.aws.moviecapstoneproject.ui.HomeActivity;
 
 public class SplashScreen extends AppCompatActivity {
 
